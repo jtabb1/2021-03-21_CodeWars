@@ -1,3 +1,29 @@
+/* Problem Statement:
+
+7 kyu
+Disemvowel Trolls
+123421288% of 14,79648,202 of 127,446osuushi5 Issues Reported
+JavaScript
+Node v8.1.3
+VIM
+EMACS
+Instructions
+Output
+Past Solutions
+Trolls are attacking your comment section!
+
+A common way to deal with this situation is to remove all of the vowels from the trolls' comments, neutralizing the threat.
+
+Your task is to write a function that takes a string and return a new string with all vowels removed.
+
+For example, the string "This website is for losers LOL!" would become "Ths wbst s fr lsrs LL!".
+
+Note: for this kata y isn't considered a vowel.
+
+FUNDAMENTALSSTRINGSREGULAR EXPRESSIONSDECLARATIVE PROGRAMMINGADVANCED LANGUAGE FEATURES
+
+*/
+
 // Some of my initial tests to get to a solution:
 
 console.log('hello');
